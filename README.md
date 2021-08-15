@@ -1,2 +1,2 @@
 # Olympic_DataAnalysis
-Data of the olympucs since its inception, downloaded from Kaggle 
+Data of the olympics since its inception, downloaded from Kaggle 
